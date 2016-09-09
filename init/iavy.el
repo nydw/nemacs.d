@@ -1,4 +1,4 @@
-(add-to-list 'load-path (concat base-path "elpa/avy/"))
+(add-to-list 'load-path (concat site-path "avy"))
 
 (require 'avy)
 
