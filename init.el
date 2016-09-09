@@ -1,4 +1,4 @@
-(defconst site-path "~/.emacs.d/site/" "")
+(defconst site-path "~/.emacs.d/arms/" "")
 (defconst init-path "~/.emacs.d/init/" "")
 (add-to-list 'load-path init-path)
 
