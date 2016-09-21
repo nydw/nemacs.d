@@ -17,6 +17,7 @@
 (setq-default indent-tabs-mode nil)
 
 (add-to-list 'load-path init-path)
+(require 'icc)
 (require 'igo)
 (require 'iui)
 (require 'iavy)
